@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 abcdef
 qwerty
 fawefwaet
-=======
-abcdef
->>>>>>> parent of b301302... Update test.txt
