@@ -1,11 +1,3 @@
 123
 
-45
-
-front-end
-
-khoa
-
-vuong
-
-nuocloc
+789
